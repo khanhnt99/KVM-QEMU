@@ -7,13 +7,13 @@ Thực hiện chức năng Migrate trong KVM-QEMU
 
 - [3. Tính năng Migrate trong KVM_QEMU](#chucnang)
 
-   [3.1. Khái niệm](#kn2)
+   - [3.1. Khái niệm](#kn2)
    
-   [3.2. Vai trò](#vc)
+   - [3.2. Vai trò](#vc)
    
-   [3.3. Cơ chế](#ch)
+   - [3.3. Cơ chế](#ch)
    
-   [3.4. Lab](#lab)
+   - [3.4. Lab](#lab)
    
 <a name="kn"></a>
 ## 1. Khái niệm:
